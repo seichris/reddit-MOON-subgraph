@@ -1,4 +1,4 @@
-Based on https://github.com/graphprotocol/erc20-subgraph/blob/master/abis/ERC20.json and https://github.com/k06a/all-erc20-transfers-subgraph/blob/master/subgraph.yaml and corresponding https://thegraph.com/explorer/subgraph/k06a/all-erc20-transfers?query=Top%20USDT%20Hodlers.
+Based on [the graph protocol](https://thegraph.com), [their erc20 ABI](https://github.com/graphprotocol/erc20-subgraph/blob/master/abis/ERC20.json) and [k06a's erc20 subgraph](https://github.com/k06a/all-erc20-transfers-subgraph/blob/master/subgraph.yaml) and [corresponding queries](https://thegraph.com/explorer/subgraph/k06a/all-erc20-transfers?query=Top%20USDT%20Hodlers). Thanks :)
 
 ## Setup
 
