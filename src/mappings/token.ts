@@ -1,4 +1,4 @@
-import { BigInt, Bytes, Address, EthereumEvent } from '@graphprotocol/graph-ts'
+import { BigInt, Bytes, Address } from '@graphprotocol/graph-ts'
 
 import { Transfer } from '../../generated/StandardToken/ERC20'
 import { Account, AccountSnapshot, TokenTransfer } from '../../generated/schema'
